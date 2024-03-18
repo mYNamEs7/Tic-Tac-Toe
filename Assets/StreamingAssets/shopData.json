@@ -1,0 +1,25 @@
+{
+  "shopItems": [
+    {
+      "key": "золото",
+      "amount": 100,
+      "price": "1.99",
+      "currency": "usd"
+    },
+    {
+      "key": "серебро",
+      "amount": 5000,
+      "price": "0.99",
+      "currency": "usd"
+    },
+    {
+      "key": "стартовый пакет",
+      "items": [
+        { "key": "меч", "damage": "14" },
+        { "key": "воскрешение", "amount": 3 }
+      ],
+      "price": "1.99",
+      "currency": "usd"
+    }
+  ]
+}
