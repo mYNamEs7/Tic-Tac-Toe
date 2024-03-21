@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   key: "\u0437\u043E\u043B\u043E\u0442\u043E"
   mainImage: {fileID: 21300000, guid: 9016b17891325e541914bbb54c4bc841, type: 3}
-  iconImage: {fileID: 21300000, guid: b493ea5952de38b45912daa7b2515a18, type: 3}
+  iconImage: {fileID: 21300000, guid: 813d942af4587be44a5c4d0aa1337177, type: 3}

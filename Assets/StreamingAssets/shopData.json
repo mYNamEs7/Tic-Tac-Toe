@@ -13,6 +13,18 @@
       "currency": "usd"
     },
     {
+      "key": "золото",
+      "amount": 50,
+      "price": "0.99",
+      "currency": "usd"
+    },
+    {
+      "key": "серебро",
+      "amount": 10000,
+      "price": "1.99",
+      "currency": "usd"
+    },
+    {
       "key": "стартовый пакет",
       "items": [
         { "key": "меч", "damage": "14" },

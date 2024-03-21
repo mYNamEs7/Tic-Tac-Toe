@@ -96,9 +96,9 @@ MonoBehaviour:
   m_fontSize: 168.9
   m_fontSizeBase: 168.9
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 168.9
   m_fontStyle: 17
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -270,3 +270,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b59a5d95389da9428c2a4cc0c76de40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerMove: 120
